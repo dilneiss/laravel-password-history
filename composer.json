@@ -1,5 +1,5 @@
 {
-  "name": "imanghafoori/laravel-password-history",
+  "name": "dilneiss/laravel-password-history",
   "description": "A package to keep a history of all password changes of users",
   "keywords": [
     "laravel",
